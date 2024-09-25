@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://nunewabiqapo.netlify.app/sitemap.xml
